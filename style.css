@@ -1,0 +1,51 @@
+body {
+      font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom, #e0f7ff, #ffffff);
+          margin: 0;
+            padding: 20px;
+              text-align: center;
+              }
+
+              .container {
+                max-width: 500px;
+                  margin: auto;
+                    background: #fff;
+                      border-radius: 12px;
+                        padding: 20px;
+                          box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+                          }
+
+                          .qr-box {
+                            margin: 20px 0;
+                            }
+
+                            .qr-img {
+                              width: 200px;
+                                border-radius: 10px;
+                                }
+
+                                .info ul {
+                                  text-align: left;
+                                    padding-left: 20px;
+                                    }
+
+                                    .btns button {
+                                      padding: 10px 15px;
+                                        margin: 5px;
+                                          border: none;
+                                            background-color: #28a745;
+                                              color: white;
+                                                border-radius: 8px;
+                                                  cursor: pointer;
+                                                  }
+
+                                                  .btns button:hover {
+                                                    background-color: #218838;
+                                                    }
+
+                                                    .thongbao {
+                                                      margin-top: 20px;
+                                                        font-weight: bold;
+                                                          color: #d9534f;
+                                                          }
+}
